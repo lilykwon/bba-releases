@@ -41,7 +41,7 @@
 
 ## 설치하기
 
-1. [Releases](https://github.com/lilykwon/bba-releases/releases/latest)에서 최신 버전의 `Bba-x.x.x-universal.dmg`를 내려받아요.
+1. [Releases](https://github.com/lilykwon/bba-releases/releases/latest)에서 **`Bba.dmg`**를 내려받아요. 애플 실리콘과 인텔 맥 모두 이 파일 하나로 돼요.
 2. 받은 파일을 열고, **Bba** 아이콘을 **응용 프로그램(Applications)** 폴더로 끌어다 놓아요.
 3. 응용 프로그램 폴더에서 **Bba**를 실행하면 화면 위에서 펫이 톡 떨어져요.
 
