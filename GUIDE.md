@@ -26,7 +26,7 @@
 
 펫을 **우클릭 > 캐릭터 > 내 인형으로 새로 만들기...** 를 눌러요.
 
-<p align="center"><img src="docs/creator-1.png" alt="1단계: 이름, 부위, 움직이는 방식 고르기" width="720"></p>
+<p align="center"><img src="docs/ko/creator-1.png" alt="1단계: 이름, 부위, 움직이는 방식 고르기" width="720"></p>
 
 - **이름:** 펫이 이 이름으로 자기를 소개해요
 - **따로 움직였으면 하는 부위:** 인형에 있는 것만 골라요
@@ -40,7 +40,7 @@
 
 ## 2. ChatGPT로 이미지 만들기
 
-<p align="center"><img src="docs/creator-2.png" alt="2단계: 프롬프트 카드" width="720"></p>
+<p align="center"><img src="docs/ko/creator-2.png" alt="2단계: 프롬프트 카드" width="720"></p>
 
 1. **ChatGPT 열기**를 누르고 새 대화를 열어요
 2. **인형 사진을 첨부**해요
@@ -58,7 +58,7 @@
 
 ## 3. 이미지 넣기
 
-<p align="center"><img src="docs/creator-3.png" alt="3단계: 이미지 칸에 끌어다 놓기" width="720"></p>
+<p align="center"><img src="docs/ko/creator-3.png" alt="3단계: 이미지 칸에 끌어다 놓기" width="720"></p>
 
 - 각 칸에 맞는 이미지를 끌어다 놓거나, 칸을 눌러서 골라요
 - 넣자마자 **배경을 지운 모습**이 보여요. 칸 아래 초록 글씨가 나오면 잘 된 거예요
@@ -69,7 +69,7 @@
 
 ## 4. 완성
 
-<p align="center"><img src="docs/creator-4.png" alt="4단계: 미리보기" width="720"></p>
+<p align="center"><img src="docs/ko/creator-4.png" alt="4단계: 미리보기" width="720"></p>
 
 - 앱이 눈 위치, 코, 팔다리 붙는 곳을 **자동으로** 잡아요
 - 오른쪽 버튼으로 표정(웃음, 졸림 등)과 움직임(걷기, 들어 올림)을 미리 볼 수 있어요
@@ -82,7 +82,7 @@
 
 **우클릭 > 캐릭터 > 위치 맞추기...**
 
-<p align="center"><img src="docs/editor.png" alt="위치 맞추기 창" width="720"></p>
+<p align="center"><img src="docs/ko/editor.png" alt="위치 맞추기 창" width="720"></p>
 
 - **얼굴 점:** 두 눈의 한가운데에 맞춰요
 - **부위 축 점(귀 축, 팔 축, 다리 축):** 부위가 몸에 붙는 곳이에요. 움직일 때 이 점을 중심으로 돌아요
